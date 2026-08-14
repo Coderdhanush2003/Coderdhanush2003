@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Dhanush Shankar
 
-<!--
-**Coderdhanush2003/Coderdhanush2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer & Open Source Contributor
+Building RAG applications, LLM tooling, and agentic systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+* **Languages:** Python
+* **AI / RAG:** LangChain, LangGraph, RAG Systems
+* **Databases & Search:** PostgreSQL, pgvector, tsvector
+* **Frameworks & Testing:** FastAPI, PyTest
+* **Version Control:** Git
+
+---
+
+## Open Source Contributions
+
+###  NeuroML / neuroklea
+* **Official Code Contributor** recognized in project `.all-contributorsrc` — PR #103 (Merged), resolving Issue #102, in a 700+ commit, actively maintained RAG/agentic-AI assistant
+* **Impact & Highlights:**
+  * Fixed a DeprecationWarning by vendoring langchain-community's BM25Retriever as a standalone local module, dropping the dependency ahead of its sunset
+  * Preserved MIT License attribution while porting the third-party implementation, matching the project's Ruff and type-hint conventions
+  * Resolved reviewer feedback and correctly scoped a failing CI check to a pre-existing issue unrelated to the change
+
+---
