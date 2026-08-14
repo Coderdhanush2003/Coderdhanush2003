@@ -8,7 +8,7 @@ Building RAG applications, LLM tooling, and agentic systems.
 ## Tech Stack
 * **Languages:** Python
 * **AI / RAG:** LangChain, LangGraph, RAG Systems, Model Context Protocol (MCP)
-* **LLM Observability & Eval:** LangSmith, Ragas (Faithfulness, Answer Relevance, Context Precision)
+* **LLM Observability & Eval:** LangSmith, Ragas (Faithfulness, Answer Relevance, Context Precision), Token & Latency Optimization
 * **Databases & ORM:** PostgreSQL, pgvector, tsvector, SQLAlchemy
 * **Frameworks & Testing:** FastAPI, PyTest
 * **Version Control:** Git
