@@ -7,8 +7,8 @@ Building RAG applications, LLM tooling, and agentic systems.
 
 ## Tech Stack
 * **Languages:** Python
-* **AI / RAG:** LangChain, LangGraph, RAG Systems
-* **Databases & Search:** PostgreSQL, pgvector, tsvector
+* **AI / RAG:** LangChain, LangGraph, RAG Systems, Model Context Protocol (MCP)
+* **Databases & ORM:** PostgreSQL, pgvector, tsvector, SQLAlchemy
 * **Frameworks & Testing:** FastAPI, PyTest
 * **Version Control:** Git
 
